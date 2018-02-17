@@ -1,2 +1,2 @@
-# Oh-my-windows
+# config-win
 configuration files
